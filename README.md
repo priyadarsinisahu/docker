@@ -7,6 +7,8 @@ Docker
 
 ├── Installation
 
+│
+
 ├── Service
 
 │   ├── start
@@ -16,6 +18,8 @@ Docker
 │   ├── restart
 
 │   └── status
+
+│
 
 ├── Images
 
@@ -28,6 +32,8 @@ Docker
 │   ├── tag
 
 │   └── remove
+
+│
 
 ├── Containers
 
@@ -55,6 +61,8 @@ Docker
 
 │   └── remove
 
+│
+
 ├── Volumes
 
 │   ├── create
@@ -63,6 +71,8 @@ Docker
 
 │   └── remove
 
+│
+
 ├── Networks
 
 │   ├── create
@@ -70,6 +80,8 @@ Docker
 │   ├── list
 
 │   └── remove
+
+│
 
 └── Cleanup
 
