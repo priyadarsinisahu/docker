@@ -1,0 +1,20 @@
+Docker Commands
+
+| Command                  | Purpose                                  |
+| ------------------------ | ---------------------------------------- |
+| `docker run`             | Create + start container                 |
+| `docker create`          | Create container only                    |
+| `docker start`           | Start existing container                 |
+| `docker stop`            | Gracefully stop container                |
+| `docker kill`            | Forcefully stop container                |
+| `docker restart`         | Restart container                        |
+| `docker ps`              | Show running containers                  |
+| `docker ps -a`           | Show all containers                      |
+| `docker logs`            | View container logs                      |
+| `docker logs -f`         | Follow logs                              |
+| `docker exec`            | Execute command inside running container |
+| `docker inspect`         | Inspect container configuration          |
+| `docker stats`           | Resource usage                           |
+| `docker cp`              | Copy files                               |
+| `docker rm`              | Remove container                         |
+| `docker container prune` | Remove stopped containers                |
